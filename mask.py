@@ -114,7 +114,7 @@ for item in hash_store:
 # OUTPUT TO CONSOLE
 #--------------------------------------------------------------------------------------
 print()
-print('\033[0;32mENCODING COMPLETE.\033[0m\n')
+print('\033[0;32m ENCODING COMPLETE.\033[0m\n')
 print(f'\033[0;30m - encoded file:        \033[0m\033[0;33m{f_masked.name}\033[0m')
 print(f'\033[0;30m - hash database file:  \033[0m\033[0;33m{f_hashes.name}\033[0m')
 #--------------------------------------------------------------------------------------
